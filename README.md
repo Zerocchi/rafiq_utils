@@ -23,11 +23,11 @@ will move *1.txt* until *1000.txt* into folders separated by 10 steps (1-10, 11-
 
 If step isn't specified, the default **10** will be used.
 
-## text_get.bat
+## txt_gen.bat
 
 **(OPTIONAL)**
 
-Use `text_gen` batch script to generate empty text files incrementally. 
+Use `txt_gen` batch script to generate empty text files incrementally. 
 
 Usage:
 
