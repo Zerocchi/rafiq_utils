@@ -21,9 +21,9 @@ Example
 
 will move *1.txt* until *1000.txt* into folders separated by 10 steps (1-10, 11-20, etc).
 
-***NOTE: Make sure the naming of the files are correct. The script make no effort to validate file names.***
-
 If step isn't specified, the default **10** will be used.
+
+**🔴IMPORTANT❗🔴: Make sure the naming of the files are correct. The script make neither effort to validate file names nor moving the files to the folder that already exist.**
 
 ## txt_gen.bat
 
