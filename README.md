@@ -21,13 +21,15 @@ Example
 
 will move *1.txt* until *1000.txt* into folders separated by 10 steps (1-10, 11-20, etc).
 
+***NOTE: Make sure the naming of the files are correct. The script make no effort to validate file names.***
+
 If step isn't specified, the default **10** will be used.
 
 ## txt_gen.bat
 
 **(OPTIONAL)**
 
-Use `txt_gen` batch script to generate empty text files incrementally. 
+Use `txt_gen` batch script to generate empty text files incrementally. Useful for testing `mover.bat` to ensure it's working correctly.
 
 Usage:
 
